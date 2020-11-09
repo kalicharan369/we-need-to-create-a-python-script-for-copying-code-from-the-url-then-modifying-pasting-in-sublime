@@ -6,6 +6,9 @@ Task 1 > the script should open multiple urls from w3schools.com
 
 Task 2 > then the script should find the starting word and the ending word from the code in the url from w3schools.com 
 
+For Example: to find the Starting & Ending Word, go to the url > https://www.w3schools.com/js/tryit.asp?filename=tryjs_number_tostring < you can find the 
+starting word as <!DOCTYPE html> and ending word as </html>
+
 Task 3 > then the script should copy the code w.r.t starting word and ending word 
 
 Task 4 > then the script should open only single sublime file  
